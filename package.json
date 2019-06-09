@@ -1,0 +1,23 @@
+{
+  "name": "cmd-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugendarkumar/cmd-node.git"
+  },
+  "author": "ugi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugendarkumar/cmd-node/issues"
+  },
+  "homepage": "https://github.com/ugendarkumar/cmd-node#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1"
+  }
+}
